@@ -418,7 +418,7 @@
 					},
 					{
 						"title": "Feature extraction and classification of ECG signals using Discrete Wavelet Transform & Artificial Neural Networks ",
-						"description": "Developed an algorithm in <l>MATLAB<l> for classifying Electrocardiogram (ECG) signals. Utilizing MATLAB's built-in functions, an Artificial Neural Network (ANN) was implemented for signal analysis. The PhysioNet ECG Database was utilized for training and testing the ANN model. Statistical parameters, such as standard deviation, mean, and variance, were extracted from the wavelet coefficients of the ECG signal, serving as features for abnormality detection."
+						"description": "Developed an algorithm in <l>MATLAB<l> for classifying Electrocardiogram (ECG) signals. Utilizing MATLAB's built-in functions, an Artificial Neural Network (ANN) was implemented for signal analysis. The PhysioNet ECG Database was used for training and testing the ANN model. Statistical parameters, such as standard deviation, mean, and variance, were extracted from the wavelet coefficients of the ECG signal, serving as features for abnormality detection."
 					},
 					{
 						"title": "<l>Wireless Embedded System for Powerline Monitoring</l>",
