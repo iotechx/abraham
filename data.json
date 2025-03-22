@@ -12,7 +12,7 @@
 	"interests": {
 		"icon": "fas fa-book",
 		"title": "Areas of Interest",
-		"content": "<l>Epistemology</l>, Philosophy, Theology, Theosophy, Metaphysics, Orthodox Christianity, Spirituality, Psychology, Parapsychology, Six Limbs of Veda, Shad Darsana, Numerology, Nimitha & Lakshana Sastra (Science of Logic / Meaning behind Signs, Omens, Patterns & Symbolic representations), Vedic Astrology, Astanga Yoga, Ayurveda, Naturopathy, Homeopathy, Technology, Analog & Digital Electronics, Audio & Video Systems, Digital Signal Processing, Robotics & Automation, <l>Embedded Systems</l>, <l>Bio-Signal Processing</l>, <l>Audio Signal Processing</l>."
+		"content": "<l>Epistemology</l>, Philosophy, Theology, Theosophy, Metaphysics, Orthodox Christianity, Spirituality, Psychology, Parapsychology, <l>Vedanga</l>, Shad Darsana, Numerology, <l>Semiotics</l>, <l>Linguistics</l>, <l>Phonetics</l>, <l>Vedic Astrology</l>, <l>Ashtanga Yoga</l>, Ayurveda, Naturopathy, Homeopathy, Technology, Analog & Digital Electronics, Audio & Video Systems, Digital Signal Processing, Robotics & Automation, <l>Embedded Systems</l>, <l>Bio-Signal Processing</l>, <l>Audio Signal Processing</l>."
 	},
 	"academics": {
 		"icon": "fas fa-certificate",
