@@ -1,578 +1,578 @@
 {
-	"objective": {
-		"icon": "far fa-compass",
-		"title": "Life Objective",
-		"content": "<i>To be involved in harmonically synchronized activities by efficiently & effectively utilizing the integrated resonance of traditional & contemporary wisdom, knowledge, techniques, facilities & capabilities on demand maintaining the sustained, habitable & progressive rhythm of the soul, mind, body, clothes, rooms, home, society & ecosystem.<i>"
-	},
-	"hobbies": {
-		"icon": "fas fa-puzzle-piece",
-		"title": "Hobbies",
-		"content": "Computer Programming, Computer simulation of electronics & <l>Embedded Systems</l>, Sound editing, Playing simulation based computer games (4 Wheelers & Aircraft), Reading technical & philosophical books, Blogging about my philosophical & technical thoughts (<l>ആവൃത്തി</l>, <l>Medium Technica</l>), Listening to instrumental, new age & melodious musics, Watching science fiction & philosophical movies, Photography, Exploring philosophical & technical information openly available through the internet."
-	},
-	"interests": {
-		"icon": "fas fa-book",
-		"title": "Areas of Interest",
-		"content": "<l>Epistemology</l>, Philosophy, Theology, Theosophy, Metaphysics, Orthodox Christianity, Spirituality, Psychology, Parapsychology, <l>Vedanga</l>, Shad Darsana, Numerology, <l>Semiotics</l>, <l>Linguistics</l>, <l>Phonetics</l>, <l>Vedic Astrology</l>, <l>Ashtanga Yoga</l>, Ayurveda, Naturopathy, Homeopathy, Technology, Analog & Digital Electronics, Audio & Video Systems, Digital Signal Processing, Robotics & Automation, <l>Embedded Systems</l>, <l>Bio-Signal Processing</l>, <l>Audio Signal Processing</l>."
-	},
-	"academics": {
-		"icon": "fas fa-certificate",
-		"title": "Academic Background",
-		"content": [
-			{
-				"course": "Master of Technology",
-				"subject": "Embedded Systems",
-				"organization": "Amrita School of Engineering",
-				"start": "2008",
-				"end": "2010",
-				"score": "8.45 CGPA"
-			},
-			{
-				"course": "Bachelor of Technology",
-				"subject": "Electronics & Communication Engineering",
-				"organization": "Amrita School of Engineering",
-				"start": "2004",
-				"end": "2007",
-				"score": "6.73 CGPA"
-			},
-			{
-				"course": "Diploma",
-				"subject": "Electronics",
-				"organization": "JDT Islam Polytechnic",
-				"start": "2001",
-				"end": "2004",
-				"score": "80.64 %"
-			},
-			{
-				"course": "Certification",
-				"subject": "Computer Hardware Maintenance & Troubleshooting",
-				"organization": "Dhishna Learning Systems",
-				"start": "Jun 2000",
-				"end": "Dec 2000",
-				"score": "B Grade"
-			},
-			{
-				"course": "Higher Secondary Education (Pre-Degree)",
-				"subject": "Physics, Chemistry & Mathematics",
-				"organization": "St. Mary's College",
-				"start": "1998",
-				"end": "2000",
-				"score": "42.30 %"
-			},
-			{
-				"course": "Primary & Secondary Education",
-				"subject": "Basic Grammer, Mathematics, Science & Humanities",
-				"organization": "NSS High School",
-				"start": "1989",
-				"end": "1998",
-				"score": "62.66 %"
-			},
-			{
-				"course": "Primary Education",
-				"subject": "Basic Grammer, Mathematics, Science & Humanities",
-				"organization": "St. Joseph's High School",
-				"start": "1988",
-				"end": "1989",
-				"score": ""
-			}
-		]
-	},
-	"publications": {
-		"icon": "fas fa-book",
-		"title": "Technical Publication",
-		"content": "P.A Abraham, Dr. K.A Narayanankutty, Dr. T.N Padmanabhan Nambiar, <em><l>Wireless Embedded System for Power Line Monitoring</l></em>, Bonfring International Journal of Power Systems and Integrated Circuits, Vol. 1, Special Issue, December 2011, page 39 - 42."
-	},
-	"occupations": {
-		"icon": "fa fa-suitcase",
-		"title": "History of Occupations",
-		"content": [
-			{
-				"designation": "Software Developer",
-				"field": "Information Technology",
-				"organization": "Kabani Tech - Maker Space",
-				"start": "22 Nov 2023",
-				"end": "22 May 2024",
-				"tools": [
-					"NodeJS",
-					"WebSocket",
-					"JavaScript",
-					"HTML",
-					"CSS"
-				],
-				"tasks": "Assisting technically in implementing <l>Web Applications</l> for <l>Content Management Systems</l> & <l>Internet of Things</l>"
-			},
-			{
-				"designation": "Freelance Technical Assistant",
-				"field": "Embedded Systems",
-				"start": "Feb 2022",
-				"end": "Nov 2022",
-				"tools": [
-					"Computer Hardware",
-					"Software",
-					"Programming Language",
-					"Machine Learning",
-					"Artificial Intelligence",
-					"Communication System",
-					"Internet of Things"
-				],
-				"tasks": "Assisting in the design, development, implementation, troubleshooting & configuration phases of <l>Embedded Systems</l> based products as per the requirement <l>Specification</l>."
-			},
-			{
-				"designation": "Robotics Trainer",
-				"field": "STEAM (Science Technology Engineering Art Mathematics) Education",
-				"organization": "RotechEdu Services & Solutions LLP",
-				"start": "Jan 2022",
-				"end": "Feb 2022",
-				"tools": [
-					"LEGO Education",
-					"LEGO Mindstorms",
-					"STEAM Learning Tools & Kits",
-					"Arduino",
-					"Raspberry Pi",
-					"TinkerCAD",
-					"Robotics",
-					"Internet of Things"
-				],
-				"tasks": "Assisting upper primary, secondary & higher secondary students in Tinkering with <l>STEAM</l> & <l>Robotics</l> learning tools & kits."
-			},
-			{
-				"designation": "Freelance Technical Assistant",
-				"field": "Embedded Systems",
-				"start": "Dec 2020",
-				"end": "Jan 2022",
-				"tools": [
-					"Computer Hardware",
-					"Software",
-					"Programming Language",
-					"Machine Learning",
-					"Communication System",
-					"Internet of Things"
-				],
-				"tasks": "Assisting in the design, development, implementation, troubleshooting & configuration phases of <l>Embedded Systems</l> based products as per the requirement <l>Specification</l>."
-			},
-			{
-				"designation": "Software Developer",
-				"field": "Information Technology",
-				"organization": "Three Phase Techno Solutions Pvt. Ltd.",
-				"start": "Sep 2020",
-				"end": "Dec 2020",
-				"tools": [
-					"Golang",
-					"LaTeX",
-					"HTML",
-					"CSS",
-					"JavaScript",
-					"WebSocket"
-				],
-				"tasks": "Implementation of web <l>API</l> based on <l>Grafana Reporter</l> for <l>PDF</l> reports generation."
-			},
-			{
-				"designation": "Freelance Technical Assistant",
-				"field": "Embedded Systems",
-				"organization": "",
-				"start": "Feb 2020",
-				"end": "Sep 2020",
-				"tools": [
-					"C",
-					"Python",
-					"Arduino IDE",
-					"Arduino Mega 2560",
-					"Proteus Design Suite"
-				],
-				"tasks": "Design & Development of <l>Embedded Systems</l>"
-			},
-			{
-				"designation": "Software Developer",
-				"field": "Information Technology",
-				"organization": "Corehub Solutions Pvt. Ltd.",
-				"start": "Aug 2019",
-				"end": "Nov 2019",
-				"tools": [
-					"Golang",
-					"HTML",
-					"JavaScript",
-					"QOR Web Framework",
-					"Pencil"
-				],
-				"tasks": "Implementation of <l>Web Applications</l> for <l>CMS</l>"
-			},
-			{
-				"designation": "Freelance Technical Trainer",
-				"field": "Embedded Systems",
-				"organization": "",
-				"start": "Feb 2019",
-				"end": "Aug 2019",
-				"tools": [
-					"Arduino IDE",
-					"NodeMCU",
-					"Fritzing",
-					"Ubidots",
-					"ThingSpeak",
-					"Blynk"
-				],
-				"tasks": "Handling hands-on practical training sessions, related to <l>Embedded Systems</l> & <l>Internet of Things</l> for the students of Science & Technology."
-			},
-			{
-				"designation": "Trainee Computer Programmer",
-				"field": "Information Technology",
-				"organization": "De Care Software Solutions",
-				"start": "Aug 2018",
-				"end": "Dec 2018",
-				"tools": [
-					"C#",
-					".Net",
-					"Visual Studio",
-					"MVC",
-					"CodeIgnitor",
-					"HTML",
-					"CSS",
-					"JavaScript"
-				],
-				"tasks": "Implementing additional features in existing software application used for <l>MIS</l>"
-			},
-			{
-				"designation": "Trainee System Builder",
-				"field": "Computer Hardware",
-				"organization": "GeekBoZ - The Tech Store",
-				"start": "May 2018",
-				"end": "Aug 2018",
-				"tools": "",
-				"tasks": "Assembling, performance evaluation & troubleshooting of desktop computers for gaming and / or high performance applications"
-			},
-			{
-				"designation": "Helper",
-				"field": "Bakery & Food Catering",
-				"organization": "New Nila Bakes",
-				"start": "Mar 2018",
-				"end": "Apr 2018",
-				"tools": "",
-				"tasks": "Cleaning utensils & tables after use, on demand preparation of fruit juices, milk shakes & desserts"
-			},
-			{
-				"designation": "Technical Assistant",
-				"field": "Embedded Systems",
-				"organization": "Kabani Tech - Maker Space",
-				"start": "Jul 2017",
-				"end": "Feb 2018",
-				"tools": [
-					"Arduino IDE",
-					"Arduino UNO",
-					"NodeMCU",
-					"Python",
-					"Raspberry Pi",
-					"Proteus Design Suite",
-					"C",
-					"HTML",
-					"CSS",
-					"PHP",
-					"PIC Microcontroller"
-				],
-				"tasks": "Computer Programming, Microcontroller Programming, Design & Implementation of <l>Embedded Systems</l> & Electronics Circuits."
-			},
-			{
-				"designation": "Sales Assitant",
-				"field": "Retail Hypermarket",
-				"organization": "Edumart Hypermarket",
-				"start": "17 Jul 2017",
-				"end": "25 Jul 2017",
-				"tasks": "Arrangement of merchandise, assisting customers to choose items to purchase, guiding the customers in selecting the appropriate items to purchase."
-			},
-			{
-				"designation": "Trainee Assistant Mechanic",
-				"field": "Two Wheeler Automobiles",
-				"organization": "Shyam Motors",
-				"start": "05 Jun 2017",
-				"end": "24 Jun 2017",
-				"tasks": "Cleaning parts, assisting in service & repair."
-			},
-			{
-				"designation": "Computer Service In-Charge",
-				"field": "Information Technology",
-				"organization": "Jyothi Engineering College Cheruthuruthy",
-				"start": "Jun 2016",
-				"end": "Mar 2017",
-				"tasks": "Configuration, Maintenance & Troubleshooting of Computers, Printers, Scanners, Projectors & their Network."
-			},
-			{
-				"designation": "Assistant Professor",
-				"field": "Professional Education",
-				"organization": "Jyothi Engineering College Cheruthuruthy",
-				"start": "Jun 2015",
-				"end": "May 2016",
-				"tools": [
-					"Oscilloscope",
-					"Signal Generator",
-					"MATLAB"
-				],
-				"subjects": "Digital Electronics, Sustainable Engineering, Digital Communications, Digital Signal Processing.",
-				"tasks": "Assisting undergraduate engineering students to learn the detailed theoretical & practical concepts related to Electronics & Communication Engineering, providing necessary guidance to do their academic projects."
-			},
-			{
-				"designation": "Project Associate",
-				"field": "Research & Development",
-				"organization": "Dept. of Electrical Engineering, IIT Madras",
-				"start": "Feb 2015",
-				"end": "May 2015",
-				"tools": [
-					"Shell Script",
-					"PHP",
-					"Kaldi ASR",
-					"Asterisk Framework"
-				],
-				"tasks": "Implementation of <l>IVR</l> using <l>ASR</l> & <l>TTS</l> for <l>ASR Mandi</l> project"
-			},
-			{
-				"designation": "Assistant Professor",
-				"field": "Professional Education",
-				"organization": "Jyothi Engineering College Cheruthuruthy",
-				"start": "Feb 2011",
-				"end": "Jan 2015",
-				"tools": [
-					"Oscilloscope",
-					"Signal Generator",
-					"MATLAB",
-					"Proteus Design Suite",
-					"Arduino IDE",
-					"Arduino UNO",
-					"ModelSim",
-					"C",
-					"VHDL",
-					"8086"
-				],
-				"subjects": "Radiation & Propagation, Environmental Science, Electronics Circuits, Television Engineering & Radar Systems, Information Theory & Coding, Biomedical Engineering, Electronics Devices & Circuits, Microprocessors & Microcontrollers, Digital Signal Processing, Basic Electronics.",
-				"tasks": "Assisting undergraduate engineering students to learn the detailed theoretical & practical concepts related to Electronics & Communication Engineering, providing necessary guidance to do their academic projects."
-			},
-			{
-				"designation": "Research Associate",
-				"field": "Research & Development",
-				"organization": "Amrita Center for Wireless Networks & Applications",
-				"start": "Aug 2010",
-				"end": "Jan 2011",
-				"tools": [
-					"LabVIEW",
-					"NI ELVIS",
-					"Proteus Design Suite",
-					"PIC Microcontroller",
-					"MicaZ Mote",
-					"nesC"
-				],
-				"tasks": "Design, Development, Implementation & Testing of </l>Embedded Systems</l> for research requirements."
-			},
-			{
-				"designation": "Member Technical Staff",
-				"field": "Information Technology",
-				"organization": "HCL Technologies",
-				"start": "Aug 2007",
-				"end": "Apr 2008",
-				"tools": [
-					"Java",
-					"Microsoft Excel"
-				],
-				"tasks": "Functional testing of Middleware software developed for Financial services"
-			}
-		]
-	},
-	"trainings": {
-		"icon": "fa fa-industry",
-		"title": "Industrial Trainings",
-		"content": [
-			{
-				"category": "Automotive Electronic Equipments",
-				"scope": "Familiarization of Technologies",
-				"industry": "Robert Bosch Training Center",
-				"date": "09 Oct 2009",
-				"technologies": [
-					"ABS",
-					", ",
-					"ESP",
-					", ",
-					"CRDI"
-				]
-			},
-			{
-				"category": "Telecommunication Equipments",
-				"scope": "Familiarization of Technologies & Manufacuring Processes",
-				"industry": "ITI Limited - Palakkad",
-				"start": "02 May 2005",
-				"end": "17 May 2005",
-				"technologies": [
-					"Smart Card",
-					", ",
-					"SIM Card",
-					", Multi-Layer ",
-					"PCB"
-				]
-			}
-		]
-	},
-	"projects": {
-		"icon": "fas fa-project-diagram",
-		"title": "Academic Projects",
-		"content": [
-			{
-				"course": "Master of Technology",
-				"subject": "Embedded Systems",
-				"projects": [
-					{
-						"title": "Microcontroller based DC motor speed control",
-						"description": "Designed and implemented a closed-loop feedback-based speed control software algorithm on a PIC Microcontroller for a 2.5 W DC motor. The algorithm utilizes Pulse Width Modulation (<l>PWM</l>) to regulate the DC power supply to the motor. Motor speed is sensed using a photo interrupter sensor setup across the motor's spindle. The microcontroller's PWM module generates the PWM signal according to the implemented algorithm. This signal is then connected to a driver circuit, which controls the power supply to the DC motor. The control software continuously adjusts the width of the PWM switching signal based on the calculated difference between the sensed speed and the user-desired speed. The user-desired speed is set using an adjustable potentiometer."
-					},
-					{
-						"title": "Feature extraction and classification of ECG signals using Discrete Wavelet Transform & Artificial Neural Networks ",
-						"description": "Developed an algorithm in <l>MATLAB<l> for classifying Electrocardiogram (ECG) signals. Utilizing MATLAB's built-in functions, an Artificial Neural Network (ANN) was implemented for signal analysis. The PhysioNet ECG Database was used for training and testing the ANN model. Statistical parameters, such as standard deviation, mean, and variance, were extracted from the wavelet coefficients of the ECG signal, serving as features for abnormality detection."
-					},
-					{
-						"title": "<l>Wireless Embedded System for Powerline Monitoring</l>",
-						"description": "Designed and implemented a wireless embedded system, utilizing WiFi and IEEE 802.15.4 technologies, for real-time monitoring of electric parameters in power transmission lines. The system comprised the following sub-modules:<ol style=\"padding-left: 2rem;\"><li>A pair of Hall effect based transducers for sensing the voltage & current.</li><li>Microcontroller with built in ADC modules for signal processing.</li><li>WiFi & ZigBee based Wireless transceiver modules for wireless communication.</li><li>Personal Computer for Visualization.</ol><div style=\"padding-top:0.5rem;\"></div>The software, developed in C# and .NET using Visual Studio, provided real-time visualization of:<ul style=\"padding-left: 2rem;\"><li>Time domain representation of voltage & current waveforms.</li><li>Frequency domain representation of voltage or current signal.</li><li>Phasor diagram showing phase difference between voltage & current waveforms.</li><li>RMS values of voltage and current."
-					}
-				]
-			},
-			{
-				"course": "Bachelor of Technology",
-				"subject": "Electronics & Communication Engineering",
-				"projects": [
-					{
-						"title": "Simulation of 4-Bit Microprocessor",
-						"description": "Simulated a 4-bit microprocessor in ModelSim HDL Simulator using Verilog Hardware Description Language (HDL). This simulation was accompanied by a custom assembly language compiler software, written in C programming language. The system comprised the following sub-modules:<ul style=\"padding-left: 2rem;\"><li>Basic Gates in Data Flow modeling</li><li>Ripple Carry Adder using Structural modeling</li><li>Arithmetic & Logic Unit (ALU) using Structural modeling</li><li>Decoder using Behavioral modelling</li><li>RAM (Random Access Memory) & Buffers using Dataflow modeling</li><li>Finite State Machine using Behavioral modeling</li><li>All Sub-Modules Integrated using Structural modeling</li><li>Assembly language compiler written in C programming language.</li></ul><div style=\"padding-top:0.5rem;\"></div>"
-					},
-					{
-						"title": "Wireless Di-Wheel Robot for Navigation on Predefined Routes",
-						"description": "Designed and implemented a computer-controlled di-wheeled robot using a PIC16F877 microcontroller, a 27 MHz wireless RC kit, and a pair of geared DC motors, each with a 2 Watts power rating. Routes consisting of straight lines with 45° or 90° bends were created using Microsoft Paint software and stored as bitmap images. The bitmap images were processed using a custom image processing algorithm written and implemented in MATLAB. This algorithm converted the images into ASCII-formatted byte sequences containing information about distances and bend angles. The byte sequences were transmitted to the microcontroller via the PC's <l>RS232</l> serial interface. An assembly language algorithm running on the microcontroller decoded the received byte stream and controlled the voltage levels at the control button pins of the RC kit's remote transmitter for forward, reverse, turn left & turn right movements corresponding to the information sequence. The wireless receiver module received the signals sent by the remote transmitter. The onboard driver circuit then drove the motors attached to the robot's wheels accordingly. Both motors are run at the same speed to move the robot in straight lines. The distance travelled is directly proportional to the duration for which the motors are run. By driving the two motors in opposite directions, the robot is made to spin around its central axis. The speed at which the motors are driven determines the rate of the spin, while the duration for which the motors are run decides the angle of the spin. These steps are repeated until the signal transmission was completed, which occurred when the byte stream transmission corresponding to the route was finished."
-					}
-				]
-			},
-			{
-				"course": "Diploma",
-				"subject": "Electronics",
-				"projects": [
-					{
-						"title": "Digital Attendance Register",
-						"description": "Implemented an Electronic Attendance Register based on Intel’s <l>8085</l> Microprocessor."
-					}
-				]
-			}
-		]
-	},
-	"skills": {
-		"icon": "fas fa-wrench",
-		"title": "Technical Skills",
-		"content": [
-			{
-				"category": "Electronic Hardware",
-				"skills": [
-					[
-						"Ability to design, implement, test & debug Analog & Digital Electronic Circuits."
-					],
-					[
-						"Programming & Interfacing Microprocessor & Microcontroller based systems - ",
-						"8085",
-						", ",
-						"8086",
-						", ",
-						"PIC",
-						", ",
-						"ARM",
-						", ",
-						"AVR",
-						", ",
-						"Arduino",
-						", ",
-						"NodeMCU"
-					],
-					[
-						"Hardware maintenance & troubleshooting of desktop computers & related peripherals."
-					]
-				]
-			},
-			{
-				"category": "Computer Software",
-				"subcategory": [
-					{
-						"type": "Operating Systems",
-						"description": [
-							"Installation, configuration, troubleshooting & basic networking of Windows (10, 7, XP, 98), ",
-							"Ubuntu Desktop",
-							" ",
-							"LTS (16, 18, 20)"
-						]
-					},
-					{
-						"type": "Programming Languages",
-						"description": [
-							"C",
-							", ",
-							"Embedded C",
-							", ",
-							"Assembly Language",
-							" ",
-							"(",
-							"PIC",
-							", ",
-							"8085",
-							", ",
-							"8086",
-							", ",
-							"ARM",
-							"), ",
-							"Python",
-							", ",
-							"Golang",
-							", ",
-							"PHP",
-							", ",
-							"JavaScript",
-							", ",
-							"LaTeX",
-							", ",
-							"VHDL",
-							", ",
-							"Verilog",
-							", ",
-							"C#",
-							", ",
-							"HTML",
-							", ",
-							"CSS",
-							", ",
-							"nesC",
-							"."
-						]
-					},
-					{
-						"type": "Tools",
-						"description": [
-							"MATLAB",
-							", ",
-							"LabVIEW",
-							", ",
-							"MP-LAB IDE",
-							", ",
-							"Proteus Design Suite",
-							", ",
-							"Arduino IDE",
-							", ",
-							"Visual Studio",
-							", ",
-							"VSCode",
-							", ",
-							"Android Studio",
-							", ",
-							"Microsoft Word",
-							", ",
-							"Microsoft Excel",
-							", ",
-							"Microsoft PowerPoint",
-							", ",
-							"Microsoft Paint",
-							"."
-						]
-					}
-				]
-			}
-		]
-	},
-	"languages": {
-		"icon": "fas fa-globe-asia",
-		"title": "Languages",
-		"content": "<ul><li><a id=\"textMalayalam\" href=\"https://en.wikipedia.org/wiki/Malayalam\">മലയാളം</a></li><li>English</li></ul>"
-	}
+ "objective": {
+  "icon": "far fa-compass",
+  "title": "Life Objective",
+  "content": "<i>To be involved in harmonically synchronized activities by efficiently & effectively utilizing the integrated resonance of traditional & contemporary wisdom, knowledge, techniques, facilities & capabilities on demand maintaining the sustained, habitable & progressive rhythm of the soul, mind, body, clothes, rooms, home, society & ecosystem.<i>"
+ },
+ "hobbies": {
+  "icon": "fas fa-puzzle-piece",
+  "title": "Hobbies",
+  "content": "Deep critical & analytical thinking, Meditation, Watching plants & trees with their leaves & flowers dancing with the wind, Watching Birds, Butterflies, Squirells, Ants, etc..., Blogging about my philosophical & technical thoughts (<l>ആവൃത്തി</l>, <l>Medium Technica</l>), Reading technical & philosophical books, Listening to instrumental, new age & melodious musics, Watching science fiction & philosophical movies, Photography, Exploring philosophical & technical information openly available through the internet, Computer Programming, Computer simulation of electronics & <l>Embedded Systems</l>, Sound editing, Playing simulation based computer games (4 Wheelers & Aircraft)."
+ },
+ "interests": {
+  "icon": "fas fa-book",
+  "title": "Areas of Interest",
+  "content": "<l>Epistemology</l>, Philosophy, Theology, Theosophy, Metaphysics, Orthodox Christianity, Spirituality, Psychology, Parapsychology, <l>Vedanga</l>, Shad Darsana, Numerology, <l>Semiotics</l>, <l>Linguistics</l>, <l>Phonetics</l>, <l>Vedic Astrology</l>, <l>Ashtanga Yoga</l>, Ayurveda, Naturopathy, Homeopathy, Technology, Analog & Digital Electronics, Audio & Video Systems, Digital Signal Processing, Robotics & Automation, <l>Embedded Systems</l>, <l>Bio-Signal Processing</l>, <l>Audio Signal Processing</l>."
+ },
+ "academics": {
+  "icon": "fas fa-certificate",
+  "title": "Academic Background",
+  "content": [
+   {
+    "course": "Master of Technology",
+    "subject": "Embedded Systems",
+    "organization": "Amrita School of Engineering",
+    "start": "2008",
+    "end": "2010",
+    "score": "8.45 CGPA"
+   },
+   {
+    "course": "Bachelor of Technology",
+    "subject": "Electronics & Communication Engineering",
+    "organization": "Amrita School of Engineering",
+    "start": "2004",
+    "end": "2007",
+    "score": "6.73 CGPA"
+   },
+   {
+    "course": "Diploma",
+    "subject": "Electronics",
+    "organization": "JDT Islam Polytechnic",
+    "start": "2001",
+    "end": "2004",
+    "score": "80.64 %"
+   },
+   {
+    "course": "Certification",
+    "subject": "Computer Hardware Maintenance & Troubleshooting",
+    "organization": "Dhishna Learning Systems",
+    "start": "Jun 2000",
+    "end": "Dec 2000",
+    "score": "B Grade"
+   },
+   {
+    "course": "Higher Secondary Education (Pre-Degree)",
+    "subject": "Physics, Chemistry & Mathematics",
+    "organization": "St. Mary's College",
+    "start": "1998",
+    "end": "2000",
+    "score": "42.30 %"
+   },
+   {
+    "course": "Primary & Secondary Education",
+    "subject": "Basic Grammer, Mathematics, Science & Humanities",
+    "organization": "NSS High School",
+    "start": "1989",
+    "end": "1998",
+    "score": "62.66 %"
+   },
+   {
+    "course": "Primary Education",
+    "subject": "Basic Grammer, Mathematics, Science & Humanities",
+    "organization": "St. Joseph's High School",
+    "start": "1988",
+    "end": "1989",
+    "score": ""
+   }
+  ]
+ },
+ "publications": {
+  "icon": "fas fa-book",
+  "title": "Technical Publication",
+  "content": "P.A Abraham, Dr. K.A Narayanankutty, Dr. T.N Padmanabhan Nambiar, <em><l>Wireless Embedded System for Power Line Monitoring</l></em>, Bonfring International Journal of Power Systems and Integrated Circuits, Vol. 1, Special Issue, December 2011, page 39 - 42."
+ },
+ "occupations": {
+  "icon": "fa fa-suitcase",
+  "title": "History of Occupations",
+  "content": [
+   {
+    "designation": "Software Developer",
+    "field": "Information Technology",
+    "organization": "Kabani Tech - Maker Space",
+    "start": "22 Nov 2023",
+    "end": "22 May 2024",
+    "tools": [
+     "NodeJS",
+     "WebSocket",
+     "JavaScript",
+     "HTML",
+     "CSS"
+    ],
+    "tasks": "Assisting technically in implementing <l>Web Applications</l> for <l>Content Management Systems</l> & <l>Internet of Things</l>"
+   },
+   {
+    "designation": "Freelance Technical Assistant",
+    "field": "Embedded Systems",
+    "start": "Feb 2022",
+    "end": "Nov 2022",
+    "tools": [
+     "Computer Hardware",
+     "Software",
+     "Programming Language",
+     "Machine Learning",
+     "Artificial Intelligence",
+     "Communication System",
+     "Internet of Things"
+    ],
+    "tasks": "Assisting in the design, development, implementation, troubleshooting & configuration phases of <l>Embedded Systems</l> based products as per the requirement <l>Specification</l>."
+   },
+   {
+    "designation": "Robotics Trainer",
+    "field": "STEAM (Science Technology Engineering Art Mathematics) Education",
+    "organization": "RotechEdu Services & Solutions LLP",
+    "start": "Jan 2022",
+    "end": "Feb 2022",
+    "tools": [
+     "LEGO Education",
+     "LEGO Mindstorms",
+     "STEAM Learning Tools & Kits",
+     "Arduino",
+     "Raspberry Pi",
+     "TinkerCAD",
+     "Robotics",
+     "Internet of Things"
+    ],
+    "tasks": "Assisting upper primary, secondary & higher secondary students in Tinkering with <l>STEAM</l> & <l>Robotics</l> learning tools & kits."
+   },
+   {
+    "designation": "Freelance Technical Assistant",
+    "field": "Embedded Systems",
+    "start": "Dec 2020",
+    "end": "Jan 2022",
+    "tools": [
+     "Computer Hardware",
+     "Software",
+     "Programming Language",
+     "Machine Learning",
+     "Communication System",
+     "Internet of Things"
+    ],
+    "tasks": "Assisting in the design, development, implementation, troubleshooting & configuration phases of <l>Embedded Systems</l> based products as per the requirement <l>Specification</l>."
+   },
+   {
+    "designation": "Software Developer",
+    "field": "Information Technology",
+    "organization": "Three Phase Techno Solutions Pvt. Ltd.",
+    "start": "Sep 2020",
+    "end": "Dec 2020",
+    "tools": [
+     "Golang",
+     "LaTeX",
+     "HTML",
+     "CSS",
+     "JavaScript",
+     "WebSocket"
+    ],
+    "tasks": "Implementation of web <l>API</l> based on <l>Grafana Reporter</l> for <l>PDF</l> reports generation."
+   },
+   {
+    "designation": "Freelance Technical Assistant",
+    "field": "Embedded Systems",
+    "organization": "",
+    "start": "Feb 2020",
+    "end": "Sep 2020",
+    "tools": [
+     "C",
+     "Python",
+     "Arduino IDE",
+     "Arduino Mega 2560",
+     "Proteus Design Suite"
+    ],
+    "tasks": "Design & Development of <l>Embedded Systems</l>"
+   },
+   {
+    "designation": "Software Developer",
+    "field": "Information Technology",
+    "organization": "Corehub Solutions Pvt. Ltd.",
+    "start": "Aug 2019",
+    "end": "Nov 2019",
+    "tools": [
+     "Golang",
+     "HTML",
+     "JavaScript",
+     "QOR Web Framework",
+     "Pencil"
+    ],
+    "tasks": "Implementation of <l>Web Applications</l> for <l>CMS</l>"
+   },
+   {
+    "designation": "Freelance Technical Trainer",
+    "field": "Embedded Systems",
+    "organization": "",
+    "start": "Feb 2019",
+    "end": "Aug 2019",
+    "tools": [
+     "Arduino IDE",
+     "NodeMCU",
+     "Fritzing",
+     "Ubidots",
+     "ThingSpeak",
+     "Blynk"
+    ],
+    "tasks": "Handling hands-on practical training sessions, related to <l>Embedded Systems</l> & <l>Internet of Things</l> for the students of Science & Technology."
+   },
+   {
+    "designation": "Trainee Computer Programmer",
+    "field": "Information Technology",
+    "organization": "De Care Software Solutions",
+    "start": "Aug 2018",
+    "end": "Dec 2018",
+    "tools": [
+     "C#",
+     ".Net",
+     "Visual Studio",
+     "MVC",
+     "CodeIgnitor",
+     "HTML",
+     "CSS",
+     "JavaScript"
+    ],
+    "tasks": "Implementing additional features in existing software application used for <l>MIS</l>"
+   },
+   {
+    "designation": "Trainee System Builder",
+    "field": "Computer Hardware",
+    "organization": "GeekBoZ - The Tech Store",
+    "start": "May 2018",
+    "end": "Aug 2018",
+    "tools": "",
+    "tasks": "Assembling, performance evaluation & troubleshooting of desktop computers for gaming and / or high performance applications"
+   },
+   {
+    "designation": "Helper",
+    "field": "Bakery & Food Catering",
+    "organization": "New Nila Bakes",
+    "start": "Mar 2018",
+    "end": "Apr 2018",
+    "tools": "",
+    "tasks": "Cleaning utensils & tables after use, on demand preparation of fruit juices, milk shakes & desserts"
+   },
+   {
+    "designation": "Technical Assistant",
+    "field": "Embedded Systems",
+    "organization": "Kabani Tech - Maker Space",
+    "start": "Jul 2017",
+    "end": "Feb 2018",
+    "tools": [
+     "Arduino IDE",
+     "Arduino UNO",
+     "NodeMCU",
+     "Python",
+     "Raspberry Pi",
+     "Proteus Design Suite",
+     "C",
+     "HTML",
+     "CSS",
+     "PHP",
+     "PIC Microcontroller"
+    ],
+    "tasks": "Computer Programming, Microcontroller Programming, Design & Implementation of <l>Embedded Systems</l> & Electronics Circuits."
+   },
+   {
+    "designation": "Sales Assitant",
+    "field": "Retail Hypermarket",
+    "organization": "Edumart Hypermarket",
+    "start": "17 Jul 2017",
+    "end": "25 Jul 2017",
+    "tasks": "Arrangement of merchandise, assisting customers to choose items to purchase, guiding the customers in selecting the appropriate items to purchase."
+   },
+   {
+    "designation": "Trainee Assistant Mechanic",
+    "field": "Two Wheeler Automobiles",
+    "organization": "Shyam Motors",
+    "start": "05 Jun 2017",
+    "end": "24 Jun 2017",
+    "tasks": "Cleaning parts, assisting in service & repair."
+   },
+   {
+    "designation": "Computer Service In-Charge",
+    "field": "Information Technology",
+    "organization": "Jyothi Engineering College Cheruthuruthy",
+    "start": "Jun 2016",
+    "end": "Mar 2017",
+    "tasks": "Configuration, Maintenance & Troubleshooting of Computers, Printers, Scanners, Projectors & their Network."
+   },
+   {
+    "designation": "Assistant Professor",
+    "field": "Professional Education",
+    "organization": "Jyothi Engineering College Cheruthuruthy",
+    "start": "Jun 2015",
+    "end": "May 2016",
+    "tools": [
+     "Oscilloscope",
+     "Signal Generator",
+     "MATLAB"
+    ],
+    "subjects": "Digital Electronics, Sustainable Engineering, Digital Communications, Digital Signal Processing.",
+    "tasks": "Assisting undergraduate engineering students to learn the detailed theoretical & practical concepts related to Electronics & Communication Engineering, providing necessary guidance to do their academic projects."
+   },
+   {
+    "designation": "Project Associate",
+    "field": "Research & Development",
+    "organization": "Dept. of Electrical Engineering, IIT Madras",
+    "start": "Feb 2015",
+    "end": "May 2015",
+    "tools": [
+     "Shell Script",
+     "PHP",
+     "Kaldi ASR",
+     "Asterisk Framework"
+    ],
+    "tasks": "Implementation of <l>IVR</l> using <l>ASR</l> & <l>TTS</l> for <l>ASR Mandi</l> project"
+   },
+   {
+    "designation": "Assistant Professor",
+    "field": "Professional Education",
+    "organization": "Jyothi Engineering College Cheruthuruthy",
+    "start": "Feb 2011",
+    "end": "Jan 2015",
+    "tools": [
+     "Oscilloscope",
+     "Signal Generator",
+     "MATLAB",
+     "Proteus Design Suite",
+     "Arduino IDE",
+     "Arduino UNO",
+     "ModelSim",
+     "C",
+     "VHDL",
+     "8086"
+    ],
+    "subjects": "Radiation & Propagation, Environmental Science, Electronics Circuits, Television Engineering & Radar Systems, Information Theory & Coding, Biomedical Engineering, Electronics Devices & Circuits, Microprocessors & Microcontrollers, Digital Signal Processing, Basic Electronics.",
+    "tasks": "Assisting undergraduate engineering students to learn the detailed theoretical & practical concepts related to Electronics & Communication Engineering, providing necessary guidance to do their academic projects."
+   },
+   {
+    "designation": "Research Associate",
+    "field": "Research & Development",
+    "organization": "Amrita Center for Wireless Networks & Applications",
+    "start": "Aug 2010",
+    "end": "Jan 2011",
+    "tools": [
+     "LabVIEW",
+     "NI ELVIS",
+     "Proteus Design Suite",
+     "PIC Microcontroller",
+     "MicaZ Mote",
+     "nesC"
+    ],
+    "tasks": "Design, Development, Implementation & Testing of </l>Embedded Systems</l> for research requirements."
+   },
+   {
+    "designation": "Member Technical Staff",
+    "field": "Information Technology",
+    "organization": "HCL Technologies",
+    "start": "Aug 2007",
+    "end": "Apr 2008",
+    "tools": [
+     "Java",
+     "Microsoft Excel"
+    ],
+    "tasks": "Functional testing of Middleware software developed for Financial services"
+   }
+  ]
+ },
+ "trainings": {
+  "icon": "fa fa-industry",
+  "title": "Industrial Trainings",
+  "content": [
+   {
+    "category": "Automotive Electronic Equipments",
+    "scope": "Familiarization of Technologies",
+    "industry": "Robert Bosch Training Center",
+    "date": "09 Oct 2009",
+    "technologies": [
+     "ABS",
+     ", ",
+     "ESP",
+     ", ",
+     "CRDI"
+    ]
+   },
+   {
+    "category": "Telecommunication Equipments",
+    "scope": "Familiarization of Technologies & Manufacuring Processes",
+    "industry": "ITI Limited - Palakkad",
+    "start": "02 May 2005",
+    "end": "17 May 2005",
+    "technologies": [
+     "Smart Card",
+     ", ",
+     "SIM Card",
+     ", Multi-Layer ",
+     "PCB"
+    ]
+   }
+  ]
+ },
+ "projects": {
+  "icon": "fas fa-project-diagram",
+  "title": "Academic Projects",
+  "content": [
+   {
+    "course": "Master of Technology",
+    "subject": "Embedded Systems",
+    "projects": [
+     {
+      "title": "Microcontroller based DC motor speed control",
+      "description": "Designed and implemented a closed-loop feedback-based speed control software algorithm on a PIC Microcontroller for a 2.5 W DC motor. The algorithm utilizes Pulse Width Modulation (<l>PWM</l>) to regulate the DC power supply to the motor. Motor speed is sensed using a photo interrupter sensor setup across the motor's spindle. The microcontroller's PWM module generates the PWM signal according to the implemented algorithm. This signal is then connected to a driver circuit, which controls the power supply to the DC motor. The control software continuously adjusts the width of the PWM switching signal based on the calculated difference between the sensed speed and the user-desired speed. The user-desired speed is set using an adjustable potentiometer."
+     },
+     {
+      "title": "Feature extraction and classification of ECG signals using Discrete Wavelet Transform & Artificial Neural Networks ",
+      "description": "Developed an algorithm in <l>MATLAB<l> for classifying Electrocardiogram (ECG) signals. Utilizing MATLAB's built-in functions, an Artificial Neural Network (ANN) was implemented for signal analysis. The PhysioNet ECG Database was used for training and testing the ANN model. Statistical parameters, such as standard deviation, mean, and variance, were extracted from the wavelet coefficients of the ECG signal, serving as features for abnormality detection."
+     },
+     {
+      "title": "<l>Wireless Embedded System for Powerline Monitoring</l>",
+      "description": "Designed and implemented a wireless embedded system, utilizing WiFi and IEEE 802.15.4 technologies, for real-time monitoring of electric parameters in power transmission lines. The system comprised the following sub-modules:<ol style=\"padding-left: 2rem;\"><li>A pair of Hall effect based transducers for sensing the voltage & current.</li><li>Microcontroller with built in ADC modules for signal processing.</li><li>WiFi & ZigBee based Wireless transceiver modules for wireless communication.</li><li>Personal Computer for Visualization.</ol><div style=\"padding-top:0.5rem;\"></div>The software, developed in C# and .NET using Visual Studio, provided real-time visualization of:<ul style=\"padding-left: 2rem;\"><li>Time domain representation of voltage & current waveforms.</li><li>Frequency domain representation of voltage or current signal.</li><li>Phasor diagram showing phase difference between voltage & current waveforms.</li><li>RMS values of voltage and current."
+     }
+    ]
+   },
+   {
+    "course": "Bachelor of Technology",
+    "subject": "Electronics & Communication Engineering",
+    "projects": [
+     {
+      "title": "Simulation of 4-Bit Microprocessor",
+      "description": "Simulated a 4-bit microprocessor in ModelSim HDL Simulator using Verilog Hardware Description Language (HDL). This simulation was accompanied by a custom assembly language compiler software, written in C programming language. The system comprised the following sub-modules:<ul style=\"padding-left: 2rem;\"><li>Basic Gates in Data Flow modeling</li><li>Ripple Carry Adder using Structural modeling</li><li>Arithmetic & Logic Unit (ALU) using Structural modeling</li><li>Decoder using Behavioral modelling</li><li>RAM (Random Access Memory) & Buffers using Dataflow modeling</li><li>Finite State Machine using Behavioral modeling</li><li>All Sub-Modules Integrated using Structural modeling</li><li>Assembly language compiler written in C programming language.</li></ul><div style=\"padding-top:0.5rem;\"></div>"
+     },
+     {
+      "title": "Wireless Di-Wheel Robot for Navigation on Predefined Routes",
+      "description": "Designed and implemented a computer-controlled di-wheeled robot using a PIC16F877 microcontroller, a 27 MHz wireless RC kit, and a pair of geared DC motors, each with a 2 Watts power rating. Routes consisting of straight lines with 45° or 90° bends were created using Microsoft Paint software and stored as bitmap images. The bitmap images were processed using a custom image processing algorithm written and implemented in MATLAB. This algorithm converted the images into ASCII-formatted byte sequences containing information about distances and bend angles. The byte sequences were transmitted to the microcontroller via the PC's <l>RS232</l> serial interface. An assembly language algorithm running on the microcontroller decoded the received byte stream and controlled the voltage levels at the control button pins of the RC kit's remote transmitter for forward, reverse, turn left & turn right movements corresponding to the information sequence. The wireless receiver module received the signals sent by the remote transmitter. The onboard driver circuit then drove the motors attached to the robot's wheels accordingly. Both motors are run at the same speed to move the robot in straight lines. The distance travelled is directly proportional to the duration for which the motors are run. By driving the two motors in opposite directions, the robot is made to spin around its central axis. The speed at which the motors are driven determines the rate of the spin, while the duration for which the motors are run decides the angle of the spin. These steps are repeated until the signal transmission was completed, which occurred when the byte stream transmission corresponding to the route was finished."
+     }
+    ]
+   },
+   {
+    "course": "Diploma",
+    "subject": "Electronics",
+    "projects": [
+     {
+      "title": "Digital Attendance Register",
+      "description": "Implemented an Electronic Attendance Register based on Intel’s <l>8085</l> Microprocessor."
+     }
+    ]
+   }
+  ]
+ },
+ "skills": {
+  "icon": "fas fa-wrench",
+  "title": "Technical Skills",
+  "content": [
+   {
+    "category": "Electronic Hardware",
+    "skills": [
+     [
+      "Ability to design, implement, test & debug Analog & Digital Electronic Circuits."
+     ],
+     [
+      "Programming & Interfacing Microprocessor & Microcontroller based systems - ",
+      "8085",
+      ", ",
+      "8086",
+      ", ",
+      "PIC",
+      ", ",
+      "ARM",
+      ", ",
+      "AVR",
+      ", ",
+      "Arduino",
+      ", ",
+      "NodeMCU"
+     ],
+     [
+      "Hardware maintenance & troubleshooting of desktop computers & related peripherals."
+     ]
+    ]
+   },
+   {
+    "category": "Computer Software",
+    "subcategory": [
+     {
+      "type": "Operating Systems",
+      "description": [
+       "Installation, configuration, troubleshooting & basic networking of Windows (10, 7, XP, 98), ",
+       "Ubuntu Desktop",
+       " ",
+       "LTS (16, 18, 20)"
+      ]
+     },
+     {
+      "type": "Programming Languages",
+      "description": [
+       "C",
+       ", ",
+       "Embedded C",
+       ", ",
+       "Assembly Language",
+       " ",
+       "(",
+       "PIC",
+       ", ",
+       "8085",
+       ", ",
+       "8086",
+       ", ",
+       "ARM",
+       "), ",
+       "Python",
+       ", ",
+       "Golang",
+       ", ",
+       "PHP",
+       ", ",
+       "JavaScript",
+       ", ",
+       "LaTeX",
+       ", ",
+       "VHDL",
+       ", ",
+       "Verilog",
+       ", ",
+       "C#",
+       ", ",
+       "HTML",
+       ", ",
+       "CSS",
+       ", ",
+       "nesC",
+       "."
+      ]
+     },
+     {
+      "type": "Tools",
+      "description": [
+       "MATLAB",
+       ", ",
+       "LabVIEW",
+       ", ",
+       "MP-LAB IDE",
+       ", ",
+       "Proteus Design Suite",
+       ", ",
+       "Arduino IDE",
+       ", ",
+       "Visual Studio",
+       ", ",
+       "VSCode",
+       ", ",
+       "Android Studio",
+       ", ",
+       "Microsoft Word",
+       ", ",
+       "Microsoft Excel",
+       ", ",
+       "Microsoft PowerPoint",
+       ", ",
+       "Microsoft Paint",
+       "."
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "languages": {
+  "icon": "fas fa-globe-asia",
+  "title": "Languages",
+  "content": "<ul><li><a id=\"textMalayalam\" href=\"https://en.wikipedia.org/wiki/Malayalam\">മലയാളം</a></li><li>English</li></ul>"
+ }
 }
