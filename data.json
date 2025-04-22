@@ -85,6 +85,18 @@
   "icon": "fa fa-suitcase",
   "title": "History of Occupations",
   "content": [
+{
+"designation":" Trainee Billing Assistant",
+    "field": "Wholesale & Retail Business",
+    "organization": "AFI SPORTS",
+    "start": "22 April 2025",
+    "end": "Present",
+    "tools": [
+     "MargBooks",
+     "MS Excel",
+    ],
+    "tasks": "Assisting in Billing related activities for documentation & generating invoices to customers for the purchase"
+},
    {
     "designation": "Software Developer",
     "field": "Information Technology",
