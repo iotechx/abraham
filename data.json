@@ -85,8 +85,8 @@
   "icon": "fa fa-suitcase",
   "title": "History of Occupations",
   "content": [
-{
-"designation":" Trainee Billing Assistant",
+   {
+    "designation": " Trainee Computer Typist",
     "field": "Wholesale & Retail Business",
     "organization": "AFI SPORTS",
     "start": "22 April 2025",
@@ -95,8 +95,8 @@
      "MargBooks",
      "Microsoft Excel"
     ],
-    "tasks": "Assisting in Billing related activities for documentation & generating invoices to customers for the purchase"
-},
+    "tasks": "Assisting in Computer Typing related activities for documentation & generating e-invoices of sales"
+   },
    {
     "designation": "Software Developer",
     "field": "Information Technology",
