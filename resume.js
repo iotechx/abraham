@@ -451,7 +451,7 @@ function fnStr2LinkHTML(str) {
 	return str;
 }
 
-function fnReplaceKeywords2Links(textWithKeywords) {
+export function fnReplaceKeywords2Links(textWithKeywords) {
 	const strS = "<l>";
 	const strE = "</l>";
 	let strLinkKeyword = textWithKeywords;
