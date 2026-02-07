@@ -284,31 +284,31 @@
     "designation": "Sales Assitant",
     "field": "Retail Hypermarket",
     "organization": "Edumart Hypermarket",
-    "start": "17 Jul 2017",
-    "end": "25 Jul 2017",
+    "start": "17 July 2017",
+    "end": "25 July 2017",
     "tasks": "Arrangement of merchandise, assisting customers to choose items to purchase, guiding the customers in selecting the appropriate items to purchase."
    },
    {
     "designation": "Trainee Assistant Mechanic",
     "field": "Two Wheeler Automobiles",
     "organization": "Shyam Motors",
-    "start": "05 Jun 2017",
-    "end": "24 Jun 2017",
+    "start": "05 June 2017",
+    "end": "24 June 2017",
     "tasks": "Cleaning parts, assisting in service & repair."
    },
    {
     "designation": "Computer Service In-Charge",
     "field": "Information Technology",
     "organization": "Jyothi Engineering College Cheruthuruthy",
-    "start": "Jun 2016",
-    "end": "Mar 2017",
+    "start": "June 2016",
+    "end": "March 2017",
     "tasks": "Configuration, Maintenance & Troubleshooting of Computers, Printers, Scanners, Projectors & their Network."
    },
    {
     "designation": "Assistant Professor",
     "field": "Professional Education",
     "organization": "Jyothi Engineering College Cheruthuruthy",
-    "start": "Jun 2015",
+    "start": "June 2015",
     "end": "May 2016",
     "tools": [
      "Oscilloscope",
@@ -322,7 +322,7 @@
     "designation": "Project Associate",
     "field": "Research & Development",
     "organization": "Dept. of Electrical Engineering, IIT Madras",
-    "start": "Feb 2015",
+    "start": "February 2015",
     "end": "May 2015",
     "tools": [
      "Shell Script",
@@ -336,8 +336,8 @@
     "designation": "Assistant Professor",
     "field": "Professional Education",
     "organization": "Jyothi Engineering College Cheruthuruthy",
-    "start": "Feb 2011",
-    "end": "Jan 2015",
+    "start": "February 2011",
+    "end": "January 2015",
     "tools": [
      "Oscilloscope",
      "Signal Generator",
@@ -357,8 +357,8 @@
     "designation": "Research Associate",
     "field": "Research & Development",
     "organization": "Amrita Center for Wireless Networks & Applications",
-    "start": "Aug 2010",
-    "end": "Jan 2011",
+    "start": "August 2010",
+    "end": "January 2011",
     "tools": [
      "LabVIEW",
      "NI ELVIS",
@@ -373,8 +373,8 @@
     "designation": "Member Technical Staff",
     "field": "Information Technology",
     "organization": "HCL Technologies",
-    "start": "Aug 2007",
-    "end": "Apr 2008",
+    "start": "August 2007",
+    "end": "April 2008",
     "tools": [
      "Java",
      "Microsoft Excel"
@@ -391,7 +391,7 @@
     "category": "Automotive Electronic Equipments",
     "scope": "Familiarization of Technologies",
     "industry": "Robert Bosch Training Center",
-    "date": "09 Oct 2009",
+    "date": "09 October 2009",
     "technologies": [
      "ABS",
      ", ",
