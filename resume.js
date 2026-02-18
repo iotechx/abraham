@@ -11,7 +11,7 @@ function fnInit() {
 function fnLoadData() {
 	fetch("https://medium-technica.github.io/static/links.json").then(response => response.json()).then(data => {
 		links = data;
-		//console.log(links);
+		console.log(links);
 		fetch("data.json").then(response => response.json()).then(data => {
 			let str = [
 				"objective",
