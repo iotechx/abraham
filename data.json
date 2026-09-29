@@ -85,6 +85,14 @@
   "icon": "fa fa-suitcase",
   "title": "History of Occupations",
   "content": [
+    {
+    "designation": "Helper",
+    "field": "Botanical Gardening",
+    "organization": "ILA Gardens",
+    "start": "15 September 2026",
+    "end": "18 September 2026",
+    "tasks": "Helping in maintenance of garden ecosystem"
+   },
    {
     "designation": "Picker",
     "field": "Quick Commerce",
